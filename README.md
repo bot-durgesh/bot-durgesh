@@ -62,9 +62,9 @@
   <a href="https://leetcode.com/Bot_Durgesh/">
     <img height="220" src="https://leetcard.jacoblin.cool/Bot_Durgesh?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Durgesh Leetcode Stats"/>
   </a>
-  <a href="https://www.codechef.com/users/bot_durgesh">
+  <!-- <a href="https://www.codechef.com/users/bot_durgesh">
     <img src="./codechef.svg" alt="Durgesh CodeChef Stats" width="350" height="220" />
-  </a>
+  </a> -->
   <a href="https://codeforces.com/profile/BOT_DURGESH1">
     <img height="220" src="https://codeforces-readme-stats.vercel.app/api/card?username=BOT_DURGESH1&theme=github_dark&force_username=true&border_color=00d4aa" alt="Durgesh Codeforces Stats"/>
   </a>
